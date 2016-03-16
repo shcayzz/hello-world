@@ -1,6 +1,6 @@
 # hello-world
 Say hello to world.
 
-I: Hello !
+I    : Hello !
 
 World: Hello !
